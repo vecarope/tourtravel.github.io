@@ -1,0 +1,129 @@
+.row {
+    scroll-behavior: smooth;
+}
+
+.navbar {
+    background-color: rgb(25, 25, 25, .7);
+    height: 75px;
+    flex-wrap: nowrap;
+}
+
+.navbar-brand {
+    color: white;
+    opacity: 1;
+    padding: 25px;
+    font-size: x-large;
+}
+
+.navbar-item {
+    color: white;
+    opacity: 1;
+    font-size: larger;
+}
+
+.carrusel {
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text-1 {
+    text-align: center;
+    border: 1px;
+    padding: 8px;
+    font-size: xx-large;
+}
+
+.hr {
+    height: 2px;
+    background-color: grey;
+    opacity: 07;
+    margin-top: auto;
+}
+
+.card-title-1 {
+    background: none;
+}
+
+.card-header {
+    text-align: center;
+    size: 9px;
+    border-bottom: none;
+    background-color: rgba(26, 26, 26, 0.7);
+    opacity: 0.7;
+}
+
+.card-borde {
+    background-color: rgb(0, 0, 0, .5);
+    margin-top: 20px;
+}
+
+img.card-img {
+    opacity: 1;
+}
+
+.card-2 {
+    font-size: 12px;
+    height: 350px;
+    width: 200px;
+    background: rgb(0, 0, 0, .5);
+}
+
+.card-2 .card-title,
+.card-text {
+    color: white;
+    text-align: justify;
+}
+
+.icon {
+    color: #ECB365;
+}
+
+form {
+    margin: 30px 50px 30px 50px;
+}
+
+.btn {
+    margin-top: 20px;
+    color: #ECB365;
+    background-color: #C84B31;
+}
+
+textarea#cuadroTexto {
+    height: 200px;
+}
+
+.container-1 {
+    background-image: url("../img/pexels-joão-aguiar-7777932.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.container-2 {
+    background-image: url("../img/pexels-maria-araneda-5649308.jpeg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container-3 {
+    height: 100vh;
+    background-image: url("../img/chile-gafa438f28_1280.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.check {
+    color: aliceblue;
+}
+
+.col-img {
+    background-color: azure;
+    height: 100px;
+    width: 200px;
+}
